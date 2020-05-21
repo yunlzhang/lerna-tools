@@ -1,12 +1,30 @@
 {
   "name": "simple-tool",
   "version": "1.0.0",
-  "description": "",
+  "description": "> TODO: description",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "zhangyunlong.zhang <zhangyunlong.zhang@qunar.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/yunlzhang/lerna-tools#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunlzhang/lerna-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yunlzhang/lerna-tools/issues"
+  }
 }
