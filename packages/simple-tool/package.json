@@ -26,5 +26,8 @@
   },
   "bugs": {
     "url": "https://github.com/yunlzhang/lerna-tools/issues"
+  },
+  "dependencies": {
+    "st": "^1.0.0"
   }
 }
