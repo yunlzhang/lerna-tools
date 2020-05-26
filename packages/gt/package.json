@@ -9,11 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "st": "^1.0.2"
-  },
   "devDependencies": {
     "loadsh": "0.0.4"
   },
-  "gitHead": "31c54b7fb876ce1de64af18cd02f4fc12f2cbcc3"
+  "gitHead": "f5323a70e2bfd00dfbd0f82f9d19eedad4f58c43"
 }

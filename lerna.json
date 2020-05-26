@@ -4,5 +4,11 @@
   ],
   "version": "independent",
   "npmClient":"npm",
+  "publishConfig":{
+    "access": "public",
+    "ignore":[
+      "*.md"
+    ]
+  },
   "registry":"https://registry.npmjs.org"
 }
