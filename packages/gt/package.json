@@ -1,5 +1,5 @@
 {
-  "name": "gt",
+  "name": "@lcddjmc/gt",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,5 @@
   "devDependencies": {
     "loadsh": "0.0.4"
   },
-  "gitHead": "76f3aa67588e1822cfb60bf7ac34d715b5775a6b"
+  "gitHead": "31c54b7fb876ce1de64af18cd02f4fc12f2cbcc3"
 }
