@@ -1,6 +1,6 @@
 {
   "name": "simple-tool",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "main": "index.js",
   "scripts": {
