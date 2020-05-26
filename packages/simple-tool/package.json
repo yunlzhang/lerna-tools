@@ -1,6 +1,6 @@
 {
   "name": "simple-tool",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "url": "https://github.com/yunlzhang/lerna-tools/issues"
   },
   "dependencies": {
-    "st": "^1.0.1"
+    "st": "^1.0.2"
   },
   "gitHead": "76f3aa67588e1822cfb60bf7ac34d715b5775a6b"
 }
