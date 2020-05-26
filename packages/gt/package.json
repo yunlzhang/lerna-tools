@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "st": "^1.0.2"
+    "st": "^1.2.2"
   },
   "devDependencies": {
     "loadsh": "0.0.4"
