@@ -11,5 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "loadsh": "0.0.4"
-  }
+  },
+  "gitHead": "76f3aa67588e1822cfb60bf7ac34d715b5775a6b"
 }
