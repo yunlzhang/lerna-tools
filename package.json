@@ -3,9 +3,15 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.19.0",
+    "loadsh": "0.0.4",
     "standard-version": "^8.0.0"
   },
   "scripts": {
     "release": "standard-version"
+  },
+  "dependencies": {
+    "@lcddjmc/gt": "file:packages/gt",
+    "@lcddjmc/st": "file:packages/st",
+    "simple-tool": "file:packages/simple-tool"
   }
 }

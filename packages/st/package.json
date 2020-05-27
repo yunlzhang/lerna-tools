@@ -2,15 +2,12 @@
   "name": "@lcddjmc/st",
   "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "loadsh": "0.0.4"
-  },
   "gitHead": "f30487d32be1c0864d3422cdd3a477d141ee65a4"
 }
