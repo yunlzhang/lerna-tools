@@ -3,11 +3,7 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.19.0",
-    "loadsh": "0.0.4",
-    "standard-version": "^8.0.0"
-  },
-  "scripts": {
-    "release": "standard-version"
+    "loadsh": "0.0.4"
   },
   "dependencies": {
     "@lcddjmc/gt": "file:packages/gt",
